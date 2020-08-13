@@ -1,0 +1,10 @@
+.todoList {
+    margin-top: 5px;
+    padding-left: 12px;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+}
+
+.todo-list-item-complete {
+    text-decoration: line-through;
+}

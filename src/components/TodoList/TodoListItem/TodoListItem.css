@@ -1,0 +1,29 @@
+.todo-list-item {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+.todo-list-item-del {
+    font-size: 25px;
+    border: none;
+    background-color: #fff;
+    width: 45px;
+    height: 48px;
+}
+
+.todo-list-item-del:focus {
+    outline: none;
+}
+
+.todo-edit {
+    width: 45px;
+    height: 48px;
+    border: none;
+    background-color: #fff;
+    font-size: 25px;
+}
+
+.todo-edit:focus {
+    outline: none;
+}
